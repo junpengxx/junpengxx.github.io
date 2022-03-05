@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://junpengxx.github.io</id>
     <title>Mu_</title>
-    <updated>2022-03-05T16:48:11.734Z</updated>
+    <updated>2022-03-05T16:48:26.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://junpengxx.github.io"/>
     <link rel="self" href="https://junpengxx.github.io/atom.xml"/>
@@ -17,18 +17,5 @@
         <link href="https://junpengxx.github.io/post/aaa/">
         </link>
         <updated>2022-03-04T04:53:07.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初次见面🤝]]></title>
-        <id>https://junpengxx.github.io/post/初次见面🤝/</id>
-        <link href="https://junpengxx.github.io/post/初次见面🤝/">
-        </link>
-        <updated>2018-12-09T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
     </entry>
 </feed>
