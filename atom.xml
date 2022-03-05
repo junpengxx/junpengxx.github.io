@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://junpengxx.github.io</id>
     <title>Mu_</title>
-    <updated>2022-03-05T16:48:26.724Z</updated>
+    <updated>2022-03-05T16:51:54.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://junpengxx.github.io"/>
     <link rel="self" href="https://junpengxx.github.io/atom.xml"/>
@@ -12,10 +12,10 @@
     <icon>https://junpengxx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Mu_</rights>
     <entry>
-        <title type="html"><![CDATA[：和平使者]]></title>
-        <id>https://junpengxx.github.io/post/aaa/</id>
-        <link href="https://junpengxx.github.io/post/aaa/">
+        <title type="html"><![CDATA[泽连斯基：大家好我和平使者]]></title>
+        <id>https://junpengxx.github.io/post/狗泽连斯基/</id>
+        <link href="https://junpengxx.github.io/post/狗泽连斯基/">
         </link>
-        <updated>2022-03-04T04:53:07.000Z</updated>
+        <updated>2022-03-03T14:53:07.000Z</updated>
     </entry>
 </feed>
